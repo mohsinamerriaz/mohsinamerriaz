@@ -1,5 +1,7 @@
 # 🚀 Mohsin | Full Stack Developer & System Engineer
 
+![](https://komarev.com/ghpvc/?username=mohsinamerriaz)
+
 ### 👋 Welcome to My GitHub Lore!
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**, specializing in:
 
