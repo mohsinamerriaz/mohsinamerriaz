@@ -3,13 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=mohsinamerriaz)
 
 ### 👋 Welcome to My GitHub Lore!
-I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**, specializing in:
-
-- 🔹 **WordPress, OpenCart, Shopify, Custom CMS**
-- 🔹 **E-Commerce Plugin Development & Integrations**
-- 🔹 **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
-- 🔹 **Linux System Administration & Security**
-- 🔹 **Email Infrastructure & DNS Management**
+I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
 
 ---
 
@@ -19,6 +13,11 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 - ✅ DevOps & Cloud Automation Scripts
 - ✅ Server & Code Level Performance Optimization & Fixes
 - ✅ Network Optimizations
+- 🔹 **WordPress, OpenCart, Shopify, Custom CMS**
+- 🔹 **E-Commerce Plugin Development & Integrations**
+- 🔹 **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
+- 🔹 **Linux System Administration & Security**
+- 🔹 **Email Infrastructure & DNS Management**
 
 ---
 
