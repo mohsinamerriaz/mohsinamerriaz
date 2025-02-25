@@ -1,10 +1,10 @@
 # 🚀 Mohsin | Full Stack Developer & System Engineer
 
-### 👋 Welcome to My GitHub!
-I'm a **Full Stack Developer & System Engineer** with **7+ years of experience**, specializing in:
+### 👋 Welcome to My GitHub Lore!
+I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**, specializing in:
 
-- 🔹 **MERN Stack** (MongoDB, Express, React, Node.js)
 - 🔹 **WordPress, OpenCart, Shopify, Custom CMS**
+- 🔹 **E-Commerce Plugin Development & Integrations**
 - 🔹 **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
 - 🔹 **Linux System Administration & Security**
 - 🔹 **Email Infrastructure & DNS Management**
@@ -12,10 +12,11 @@ I'm a **Full Stack Developer & System Engineer** with **7+ years of experience**
 ---
 
 ## 🔥 What You'll Find Here
-✅ Open-source projects & contributions
-✅ Web development tools & API integrations
-✅ DevOps & cloud automation scripts
-✅ Performance optimization & security solutions
+- ✅ Open-Source Projects & Contributions
+- ✅ API Integrations & Web Development Issues
+- ✅ DevOps & Cloud Automation Scripts
+- ✅ Server & Code Level Performance Optimization & Fixes
+- ✅ Network Optimizations
 
 ---
 
