@@ -11,6 +11,8 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 - 🧩💳 **Plugin/Module Development**
 - 📧🌐 **Email Infrastructure & DNS Management**
 
+<a href="https://www.upwork.com/freelancers/mohsinamerriaz">Hire Me on Upwork</a>
+
 ---
 
 <h2 align="center">My Stats</h2>
