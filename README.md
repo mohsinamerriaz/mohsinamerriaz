@@ -17,11 +17,11 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 
 <h2 align="center">My Stats</h2>
 <br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></p>
 <div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohsinamerriaz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
   <br/>
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></p>
 
 ---
 
