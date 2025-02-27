@@ -2,8 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FED257&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohsin!;Welcome+to+My+WebSmith+Lore!"/>
 </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FED257?style=for-the-badge)](https://mohsin.one)
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinamerriaz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FED257?style=for-the-badge)](https://mohsin.one) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinamerriaz/) [![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-1F6A4E?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/mohsinamerriaz)
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
 
