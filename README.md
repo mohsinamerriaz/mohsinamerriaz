@@ -23,4 +23,6 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohsinamerriaz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://mohsin.one) 
 
-🚀 **Always learning & building! Feel free to explore my repos and collaborate.**
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FED257&center=true&width=435&lines=%F0%9F%9A%80+Always+learning+%26+building!;Get+in+Touch+on+LinkedIn)](https://git.io/typing-svg)
