@@ -6,16 +6,15 @@
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
 
-- ✅ **Open-Source Projects & Contributions**
-- ✅ **API Integrations & Web Development**
-- ✅ **DevOps & Cloud Automation Scripts**
-- ✅ **Server & Code Level Optimization & Fixes**
-- ✅ **Network & Security Optimization/Hardening**
-- ✅ **WordPress, OpenCart, Shopify Development**
-- ✅ **E-Commerce Plugin Development & Integrations**
-- ✅ **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
-- ✅ **Linux System Administration & Security**
-- ✅ **Email Infrastructure & DNS Management**
+- 🌍🛠️ **Open-Source Projects & Contributions**
+- 🔗💻 **API Integrations & Web Development**
+- ☁️⚙️ **DevOps & Cloud Automation Scripts**
+- 🔒🛡️ **Network & Security Optimization/Hardening**
+- 🛒🖥️ **WordPress, OpenCart, Shopify Development**
+- 🧩💳 **E-Commerce Plugin Development & Integrations**
+- ☁️🐳 **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
+- 🐧📟 **Linux System Administration & Security**
+- 📧🌐 **Email Infrastructure & DNS Management**
 
 ---
 
