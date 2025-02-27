@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Mohsin Amer Riaz <h1 align="right"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></h1>
+# 👋 Hi there, I'm Mohsin Amer Riaz
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></h1>
 
 ### Welcome to My WebSmith Lore!
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
