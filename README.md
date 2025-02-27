@@ -17,7 +17,7 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinamerriaz)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mohsinamerriaz&theme=transparent&show_icons=true)
 
 ---
 
