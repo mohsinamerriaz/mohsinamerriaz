@@ -13,6 +13,10 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 - 🧩💳 **Plugin/Module Development**
 - 📧🌐 **Email Infrastructure & DNS Management**
 
+<h3 align="center">
+<img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-1F6A4E?style=for-the-badge&logo=upwork"/>
+</h3>
+
 ---
 
 <h2 align="center">Stargaze!</h2>
