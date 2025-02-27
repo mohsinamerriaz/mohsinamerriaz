@@ -4,7 +4,6 @@
 
 <p align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-FED257?style=for-the-badge)](https://mohsin.one)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinamerriaz/)
 </p>
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
