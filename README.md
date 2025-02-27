@@ -1,5 +1,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FED257&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohsin!;Welcome+to+My+WebSmith+Lore!"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmohsin.one-blue)](https://mohsin.one)
 </h1>
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
@@ -16,7 +17,7 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 
 ---
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">Stargaze!</h2>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></p>
 <div align="center">
