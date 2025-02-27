@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FED257&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohsin!;Welcome+to+My+WebSmith+Lore!"/>
 </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmohsin.one-blue)](https://mohsin.one)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge)](https://mohsin.one)
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
 
