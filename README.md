@@ -7,10 +7,8 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 - 🌍🛠️ **Open-Source Projects & Contributions**
 - 🔗💻 **API Integrations & Web Development**
 - ☁️⚙️ **DevOps & Cloud Development**
-- 🔒🛡️ **Network & Security Optimization/Hardening**
 - 🛒🖥️ **WordPress, OpenCart, Shopify Development**
 - 🧩💳 **Plugin/Module Development**
-- 🐧📟 **Linux System Administration & Security**
 - 📧🌐 **Email Infrastructure & DNS Management**
 
 ---
