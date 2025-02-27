@@ -5,17 +5,17 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 
 ---
 
-## 🔥 What You'll Find Here
-- ✅ Open-Source Projects & Contributions
-- ✅ API Integrations & Web Development Issues
-- ✅ DevOps & Cloud Automation Scripts
-- ✅ Server & Code Level Performance Optimization & Fixes
-- ✅ Network Optimizations
-- 🔹 **WordPress, OpenCart, Shopify, Custom CMS**
-- 🔹 **E-Commerce Plugin Development & Integrations**
-- 🔹 **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
-- 🔹 **Linux System Administration & Security**
-- 🔹 **Email Infrastructure & DNS Management**
+## 🔥 What I Do
+- ✅ **Open-Source Projects & Contributions**
+- ✅ **API Integrations & Web Development**
+- ✅ **DevOps & Cloud Automation Scripts**
+- ✅ **Server & Code Level Performance Optimization & Fixes**
+- ✅ **Network & Security Optimization/Hardening**
+- ✅ **WordPress, OpenCart, Shopify Development**
+- ✅ **E-Commerce Plugin Development & Integrations**
+- ✅ **Cloud & DevOps** (AWS, Docker, Kubernetes, Terraform, CI/CD)
+- ✅ **Linux System Administration & Security**
+- ✅ **Email Infrastructure & DNS Management**
 
 ---
 
