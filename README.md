@@ -10,9 +10,9 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 - 🛒🖥️ **WordPress, OpenCart, Shopify Development**
 - 🧩💳 **Plugin/Module Development**
 - 📧🌐 **Email Infrastructure & DNS Management**
-
-<a align="center" href="https://www.upwork.com/freelancers/mohsinamerriaz">Hire Me on Upwork</a>
-
+<h1 align="center">
+<a href="https://www.upwork.com/freelancers/mohsinamerriaz">Hire Me on Upwork</a>
+</h1>
 ---
 
 <h2 align="center">My Stats</h2>
