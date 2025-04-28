@@ -30,7 +30,10 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 
 <h2 align="center">Stargaze!</h2>
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true"/></p>
+<p align="center">
+  <div style="background: url('https://komarev.com/ghpvc/?username=mohsinamerriaz&color=FED257&style=flat-square&label=Profile+Views&abbreviated=true') no-repeat center center; background-size: contain; width: 250px; height: 30px;">
+  </div>
+</p>
 <div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohsinamerriaz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
   <br/>
