@@ -3,8 +3,12 @@
 </h1>
 
 <h2 align="center">
-<img href="https://mohsin.one" src="https://img.shields.io/badge/Portfolio-FED257?style=for-the-badge"/>
-<img href="https://www.linkedin.com/in/mohsinamerriaz" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://mohsin.one">
+    <img src="https://img.shields.io/badge/Portfolio-FED257?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohsinamerriaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </h2>
 
 I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
@@ -17,7 +21,9 @@ I'm a **Full Stack Developer & System Engineer** with **8+ years of experience**
 📧🌐 **Email Infrastructure & DNS Management**
 
 <h3 align="center">
-<img href="https://www.upwork.com/freelancers/mohsinamerriaz" src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-1F6A4E?style=for-the-badge&logo=upwork"/>
+  <a href="https://www.upwork.com/freelancers/mohsinamerriaz">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-1F6A4E?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork" />
+  </a>
 </h3>
 
 ---
