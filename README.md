@@ -11,6 +11,8 @@
   </a>
 </h2>
 
+---
+
 Full Stack Developer & Systems Engineer with 8+ years of hands-on experience, working across web platforms, backend systems, and cloud infrastructure. Based between Pakistan and the U.A.E.
 
 I enjoy building systems that are stable, scalable, and maintainable. Most of my work involves production environments, internal tools, and client systems that need to keep running long after the initial release.
