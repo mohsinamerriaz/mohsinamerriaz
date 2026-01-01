@@ -11,10 +11,7 @@
   </a>
 </h2>
 
-Full Stack Developer & Systems Engineer
-8+ years building and maintaining production systems.
-
-Most work here reflects patterns, tools, and experiments. Client and production code largely lives in private repos.
+**Full Stack Developer & Systems Engineer with 8+ years of experience building and maintaining production systems. Most work here reflects patterns, tools, and experiments. Client and production code largely lives in private repos.**
 
 ---
 
