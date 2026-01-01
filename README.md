@@ -30,22 +30,22 @@ A lot of my professional work lives in private repos, but this profile reflects 
 🛠 Core Areas of Work
 
 Web & Platform Development
-API-driven applications, dashboards, admin systems
+- API-driven applications, dashboards, admin systems
 
 API Integrations & System Connectivity
-Third-party services, payment gateways, data syncs
+- Third-party services, payment gateways, data syncs
 
 Cloud & DevOps
-AWS infrastructure, server management, deployment workflows
+- AWS infrastructure, server management, deployment workflows
 
 CMS & E-commerce Platforms
-WordPress, OpenCart, Shopify (custom themes, plugins, modules)
+- WordPress, OpenCart, Shopify (custom themes, plugins, modules)
 
 Plugin & Module Development
-Clean, extendable code that doesn’t fight the core system
+- Clean, extendable code that doesn’t fight the core system
 
 Email Infrastructure & DNS
-Transactional email, deliverability, SPF/DKIM/DMARC, domain setup
+- Transactional email, deliverability, SPF/DKIM/DMARC, domain setup
 
 ---
 
