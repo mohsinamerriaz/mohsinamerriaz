@@ -11,41 +11,43 @@
   </a>
 </h2>
 
-Full Stack Developer & Systems Engineer with 8+ years of hands-on experience, working across web platforms, backend systems, and cloud infrastructure. Based between Pakistan and the U.A.E.
+Full Stack Developer & Systems Engineer
+8+ years building and maintaining production systems.
 
-I enjoy building systems that are stable, scalable, and maintainable. Most of my work involves production environments, internal tools, and client systems that need to keep running long after the initial release.
-
----
-
-🧠 What You’ll Find Here
-
-- Selected projects, experiments, and technical references
-- Open-source contributions when possible
-- Patterns and tools I use for real-world systems
-
-A lot of my professional work lives in private repos, but this profile reflects how I approach engineering problems.
+Most work here reflects patterns, tools, and experiments. Client and production code largely lives in private repos.
 
 ---
 
-🛠 Core Areas of Work
+Areas of Work
 
-Web & Platform Development
-- API-driven applications, dashboards, admin systems
+Web applications and internal systems
+- Backend services and API integrations
+- Cloud infrastructure and server-side operations
+- CMS and e-commerce platforms (WordPress, OpenCart, Shopify)
+- Plugin and module development
+- Email infrastructure and DNS configuration
 
-API Integrations & System Connectivity
-- Third-party services, payment gateways, data syncs
+---
 
-Cloud & DevOps
-- AWS infrastructure, server management, deployment workflows
+Stack
 
-CMS & E-commerce Platforms
-- WordPress, OpenCart, Shopify (custom themes, plugins, modules)
+Languages: JavaScript (Node.js), PHP, SQL
+Frontend: React, modern CSS
+Backend: Express, PHP internals, REST APIs
+Databases: MySQL, MongoDB
+Cloud: AWS (EC2, S3, RDS, CloudFront, Lambda)
+Ops: Linux (Complete Stack), Nginx, Apache, CI/CD
+Infra: DNS, SPF/DKIM/DMARC, transactional email
 
-Plugin & Module Development
-- Clean, extendable code that doesn’t fight the core system
+---
 
-Email Infrastructure & DNS
-- Transactional email, deliverability, SPF/DKIM/DMARC, domain setup
+Engineering Principles
+
+- Prefer simple systems over clever ones
+- Optimize for maintainability and clarity
+- Design for failure, not ideal conditions
+- Security and performance are baseline requirements
+- Documentation is part of the system
 
 ---
 
