@@ -11,8 +11,6 @@
   </a>
 </h2>
 
----
-
 Full Stack Developer & Systems Engineer with 8+ years of hands-on experience, working across web platforms, backend systems, and cloud infrastructure. Based between Pakistan and the U.A.E.
 
 I enjoy building systems that are stable, scalable, and maintainable. Most of my work involves production environments, internal tools, and client systems that need to keep running long after the initial release.
@@ -26,6 +24,28 @@ I enjoy building systems that are stable, scalable, and maintainable. Most of my
 - Patterns and tools I use for real-world systems
 
 A lot of my professional work lives in private repos, but this profile reflects how I approach engineering problems.
+
+---
+
+🛠 Core Areas of Work
+
+Web & Platform Development
+API-driven applications, dashboards, admin systems
+
+API Integrations & System Connectivity
+Third-party services, payment gateways, data syncs
+
+Cloud & DevOps
+AWS infrastructure, server management, deployment workflows
+
+CMS & E-commerce Platforms
+WordPress, OpenCart, Shopify (custom themes, plugins, modules)
+
+Plugin & Module Development
+Clean, extendable code that doesn’t fight the core system
+
+Email Infrastructure & DNS
+Transactional email, deliverability, SPF/DKIM/DMARC, domain setup
 
 ---
 
