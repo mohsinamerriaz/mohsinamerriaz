@@ -28,13 +28,55 @@
 
 **Stack**
 
-- Languages: JavaScript (Node.js), PHP, SQL
-- Frontend: React, modern CSS
-- Backend: Express, PHP internals, REST APIs
-- Databases: MySQL, MongoDB
-- Cloud: AWS (EC2, S3, RDS, CloudFront, Lambda)
-- Ops: Linux (Complete Stack), Nginx, Apache, CI/CD
-- Infra: DNS, SPF/DKIM/DMARC, transactional email
+*Languages*
+
+- JavaScript (Node.js)
+- PHP
+- SQL
+
+*Frontend*
+
+- React
+- HTML5 / CSS3
+- Responsive, system-oriented UI (no framework lock-in)
+
+*Backend & Systems*
+
+- Node.js (Express)
+- PHP (custom code, WordPress core-level work)
+- RESTful APIs
+- Background jobs, cron-based workflows
+
+*Databases*
+
+- MySQL (schema design, query optimization)
+- MongoDB
+
+*Cloud & Infrastructure*
+
+- AWS: EC2, S3, RDS, CloudFront, Lambda
+- Linux servers
+- Nginx, Apache
+- Environment-based deployments (dev/staging/prod)
+
+*DevOps & Ops*
+
+- CI/CD basics
+- Server monitoring and log inspection
+- Backups, restores, and failover awareness
+
+*CMS & Platforms*
+
+- WordPress (custom themes, plugins, performance tuning)
+- OpenCart (custom modules, extensions)
+- Shopify (customizations, integrations)
+
+*Email & DNS*
+
+- Transactional email systems
+- Deliverability tuning
+- SPF, DKIM, DMARC
+- DNS management
 
 ---
 
