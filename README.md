@@ -18,9 +18,9 @@ Most work here reflects patterns, tools, and experiments. Client and production 
 
 ---
 
-Areas of Work
+**Areas of Work**
 
-Web applications and internal systems
+- Web applications and internal systems
 - Backend services and API integrations
 - Cloud infrastructure and server-side operations
 - CMS and e-commerce platforms (WordPress, OpenCart, Shopify)
@@ -29,7 +29,7 @@ Web applications and internal systems
 
 ---
 
-Stack
+**Stack**
 
 - Languages: JavaScript (Node.js), PHP, SQL
 - Frontend: React, modern CSS
@@ -41,7 +41,7 @@ Stack
 
 ---
 
-Engineering Principles
+**Engineering Principles**
 
 - Prefer simple systems over clever ones
 - Optimize for maintainability and clarity
