@@ -31,13 +31,13 @@ Web applications and internal systems
 
 Stack
 
-Languages: JavaScript (Node.js), PHP, SQL
-Frontend: React, modern CSS
-Backend: Express, PHP internals, REST APIs
-Databases: MySQL, MongoDB
-Cloud: AWS (EC2, S3, RDS, CloudFront, Lambda)
-Ops: Linux (Complete Stack), Nginx, Apache, CI/CD
-Infra: DNS, SPF/DKIM/DMARC, transactional email
+- Languages: JavaScript (Node.js), PHP, SQL
+- Frontend: React, modern CSS
+- Backend: Express, PHP internals, REST APIs
+- Databases: MySQL, MongoDB
+- Cloud: AWS (EC2, S3, RDS, CloudFront, Lambda)
+- Ops: Linux (Complete Stack), Nginx, Apache, CI/CD
+- Infra: DNS, SPF/DKIM/DMARC, transactional email
 
 ---
 
