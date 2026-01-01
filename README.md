@@ -11,20 +11,19 @@
   </a>
 </h2>
 
-I'm a **Full Stack Developer & System Engineer** with **8+ years of experience** based in Pakistan & U.A.E. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
+Full Stack Developer & Systems Engineer with 8+ years of hands-on experience, working across web platforms, backend systems, and cloud infrastructure. Based between Pakistan and the U.A.E.
 
-🌍🛠️ **Open-Source Projects & Contributions**<br>
-🔗💻 **API Integrations & Web Development**<br>
-☁️⚙️ **DevOps & Cloud Development**<br>
-🛒🖥️ **WordPress, OpenCart, Shopify Development**<br>
-🧩💳 **Plugin/Module Development**<br>
-📧🌐 **Email Infrastructure & DNS Management**
+I enjoy building systems that are stable, scalable, and maintainable. Most of my work involves production environments, internal tools, and client systems that need to keep running long after the initial release.
 
-<h3 align="center">
-  <a href="https://www.upwork.com/freelancers/mohsinamerriaz">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-1F6A4E?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork" />
-  </a>
-</h3>
+---
+
+🧠 What You’ll Find Here
+
+- Selected projects, experiments, and technical references
+- Open-source contributions when possible
+- Patterns and tools I use for real-world systems
+
+A lot of my professional work lives in private repos, but this profile reflects how I approach engineering problems.
 
 ---
 
